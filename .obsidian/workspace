@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ciities.md",
+            "file": "Locations/Cities/Metropolis.md",
             "mode": "preview"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciities.md",
+                "file": "Locations/Cities/Metropolis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,8 +96,8 @@
   },
   "active": "68bf3e098bcba41a",
   "lastOpenFiles": [
-    "Ciities.md",
     "Locations/Cities/Metropolis.md",
+    "Ciities.md",
     "Locations/Test/Cities.md",
     "Coiities.md",
     "Locations/Galia.md",
