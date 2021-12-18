@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Ciities.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -98,8 +98,9 @@
   "lastOpenFiles": [
     "Ciities.md",
     "Locations/Cities/Metropolis.md",
+    "Locations/Test/Cities.md",
+    "Coiities.md",
     "Locations/Galia.md",
-    "ge.md",
-    "Locations/Test/Cities.md"
+    "ge.md"
   ]
 }
