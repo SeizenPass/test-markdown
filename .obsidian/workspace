@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Cities/README.md",
+            "file": "Locations/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/README.md",
+                "file": "Locations/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,9 +96,10 @@
   },
   "active": "68bf3e098bcba41a",
   "lastOpenFiles": [
-    "Locations/Cities/README.md",
-    "Locations/Villages/README.md",
+    "Locations/README.md",
     "README.md",
+    "Locations/Villages/README.md",
+    "Locations/Cities/README.md",
     "Ciities.md",
     "Locations/Test/Cities.md",
     "Coiities.md",
