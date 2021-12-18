@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "844973119103c422",
+    "type": "split",
+    "children": [
+      {
+        "id": "68bf3e098bcba41a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ciities.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9afb2ca46ff07477",
+    "type": "split",
+    "children": [
+      {
+        "id": "600e220efca7a9cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ffa678ef781d6a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0c15923afb337a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0947e2856b496d28",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c7d1745d86fb3cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d100e0e39d1c9de4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ciities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e096e819035840e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "68bf3e098bcba41a",
+  "lastOpenFiles": [
+    "Ciities.md",
+    "Locations/Cities/Metropolis.md",
+    "Locations/Galia.md",
+    "ge.md",
+    "Locations/Test/Cities.md"
+  ]
+}
