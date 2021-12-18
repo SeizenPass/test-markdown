@@ -142,7 +142,7 @@ Right aligned columns
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
-[Link to file](./Locations/Cities/Metropolis)
+[Link to file](./Locations/Cities/Metropolis.md)
 
 
 ## Images
