@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Locations/Cities/Metropolis.md",
-            "mode": "preview"
+            "file": "Locations/Cities/README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Metropolis.md",
+                "file": "Locations/Cities/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,11 +96,13 @@
   },
   "active": "68bf3e098bcba41a",
   "lastOpenFiles": [
-    "Locations/Cities/Metropolis.md",
+    "Locations/Cities/README.md",
+    "Locations/Villages/README.md",
+    "README.md",
     "Ciities.md",
     "Locations/Test/Cities.md",
     "Coiities.md",
-    "Locations/Galia.md",
-    "ge.md"
+    "Locations/Cities/Metropolis.md",
+    "Locations/Galia.md"
   ]
 }
